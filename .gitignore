@@ -5,6 +5,7 @@
 *.d
 *.log
 dump.rdb
+build/*
 redis-benchmark
 redis-check-aof
 redis-check-rdb
